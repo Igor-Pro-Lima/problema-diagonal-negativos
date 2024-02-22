@@ -27,8 +27,7 @@ public class Main {
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				System.out.print("ELEMENTO [" + i+ "," + j + "]: ");
-				mat[i][j] = sc.nextInt()
-;			}
+				mat[i][j] = sc.nextInt();			}
 		}
 			
 		System.out.println("DIAGONAL PRINCIPAL:");
